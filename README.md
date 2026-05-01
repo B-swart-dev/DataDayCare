@@ -6,6 +6,10 @@ A simple desktop application built with Java and Java Swing to capture day-care 
 The system replaces manual record-keeping with a digital form for capturing child and guardian details.
 
 ---
+## Layout
+<img width="989" height="802" alt="image" src="https://github.com/user-attachments/assets/3c5e5709-0073-4e62-821d-414a5ca30249" />
+
+---
 
 ## Features
 - Capture child details (name, surname, date of birth, gender, category)
